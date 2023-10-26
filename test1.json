@@ -1,0 +1,15 @@
+{
+    "t1": 120,
+    "t2": 150,
+    "max_feed": 220,
+	"host_ip":"34.81.183.159",
+	"database":"fishDB",
+	"user":"lab403",
+	"password":"66386638",
+    "bst_model":3,
+    "csv_name":"pingtung_sea_bass",
+    "weight": "Pingtung-big",
+    "field": 1,
+    "flag":1,
+    "line_api":"WDcBX1cVYAtLrUGcQJIUO7GFIY/UCGXVvHkiSaiHSkVYy3B5b4o0fKZHbPCRI6BLBGQohFrRnXkFUALt6J/4jy1oOt6KTLwJoRchY6esLlBv85L4aUYjLFhG8vXc9DS9x5Ji40/j7SFqrBwajhYwkgdB04t89/1O/w1cDnyilFU="
+}
